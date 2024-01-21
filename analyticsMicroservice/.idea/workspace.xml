@@ -7,7 +7,7 @@
     <list default="true" id="e825cbfb-1a8f-4311-b92b-dd8c4e650863" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-blog-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-blog-management/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705778863711</updated>
       <workItem from="1705778864757" duration="13992000" />
-      <workItem from="1705873749741" duration="3132000" />
+      <workItem from="1705873749741" duration="3223000" />
     </task>
     <servers />
   </component>
