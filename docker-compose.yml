@@ -13,22 +13,7 @@ services:
       - /home/braians/desenvolvimento/Docker/Volumes/Mysql/lib/mysql
     networks:
       - app-network
-  app:
-    image: najadock/spring-blog-backend
-    build:
-      context: ./spring-blog-management
-      dockerfile: Dockerfile
-    environment: 
-      SPRING_DATASOURCE_URL: jdbc:mysql://mysql:3307/springblog
-      SPRING_DATASOURCE_USERNAME: root
-      SPRING_DATASOURCE_PASSWORD: root
-    ports:
-      - "8081:8081"
-    networks:
-      - app-network
-    depends_on:
-      - mysql
-      - consul
+
   app-ui:
     image: najadock/spring-blog-client
     build: ./spring-blog-client
@@ -45,17 +30,7 @@ services:
     networks:
       - app-network
 
-  analyticsMicroservice:
-    image: najadock/analytics-microservice
-    build:
-      context: ./analyticsMicroservice
-      dockerfile: Dockerfile
-    ports:
-      - "9091:9091"
-    networks:
-      - app-network
-    depends_on:
-      - consul
+
   api_gateway:
     image: najadock/api-gateway
     build:
