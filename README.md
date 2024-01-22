@@ -108,7 +108,8 @@ https://github.com/Mednj/blog_micro_latest/assets/69809265/03d03570-8077-4c95-90
 ### CI/CD avec Jenkins
 ![image](https://github.com/Mednj/blog_micro_latest/assets/69809265/799caf04-76f9-48e5-b4d2-8500f52c31bc)
 
-Video Demo:
+### Video Demo:
+
 https://github.com/Mednj/blog_micro_latest/assets/69809265/911b267e-982e-4840-b930-e3dc620054ed
 
 
