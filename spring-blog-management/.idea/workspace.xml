@@ -7,7 +7,9 @@
     <list default="true" id="4048b8fa-0f52-4cf9-bb01-8e863625b889" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../analyticsMicroservice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../analyticsMicroservice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705779057156</updated>
       <workItem from="1705779058199" duration="15710000" />
-      <workItem from="1705873748078" duration="3342000" />
+      <workItem from="1705873748078" duration="5376000" />
     </task>
     <servers />
   </component>
